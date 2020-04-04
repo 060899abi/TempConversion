@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TempConversion</string>
+    <string name="Calculate">calculate</string>
+</resources>
